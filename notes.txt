@@ -1,0 +1,8 @@
+using arrow syntax inside a react component ensures access to the "this" keywoord
+
+
+https://www.themoviedb.org/settings/api
+
+https://react-redux.js.org/
+
+https://create-react-app.dev/docs/deployment/
